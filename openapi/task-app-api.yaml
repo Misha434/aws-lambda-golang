@@ -1,0 +1,14 @@
+openapi: 3.0.0
+info:
+  title: Task App API
+  version: v1
+paths:
+  /api/v1/hello:
+    get:
+      responses:
+        '200':
+          description: Successful Response
+          content:
+            text/plain:
+              schema:
+                type: string

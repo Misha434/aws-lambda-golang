@@ -1,1 +1,1 @@
-# aws-lambda-golang
+# aws_lambda_golang
